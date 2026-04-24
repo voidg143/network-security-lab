@@ -25,7 +25,7 @@ This project demonstrates the design and implementation of a **secure enterprise
 * **VLAN 20** → IT Department
 * **VLAN 30** → Admin Department
 * **VLAN 40** → Server Network
-![VLAN](./VLAN.png)
+
 ✔ Router used for inter-VLAN routing
 ✔ Switch used for VLAN segmentation
 ![Topology](./Topology.png)
