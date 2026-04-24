@@ -28,7 +28,7 @@ This project demonstrates the design and implementation of a **secure enterprise
 
 ✔ Router used for inter-VLAN routing
 ✔ Switch used for VLAN segmentation
-
+![Topology](./Topology.png)
 ---
 
 ## 🛠️ Tools & Technologies
@@ -47,6 +47,8 @@ This project demonstrates the design and implementation of a **secure enterprise
 * HR ❌ denied access to Server
 * IT ✅ allowed limited access
 * Admin ✅ full access
+![ACL](./ACL.png)
+![VLAN](./VLAN.png)
 
 ### 2. Port Security
 
@@ -69,6 +71,7 @@ This project demonstrates the design and implementation of a **secure enterprise
 * Unauthorized device connected
 * MAC mismatch detected
 * Port automatically shut down
+![Attack](./Attack.png)
 
 ### 🔴 DHCP Starvation Attack
 
